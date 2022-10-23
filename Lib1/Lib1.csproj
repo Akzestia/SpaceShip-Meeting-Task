@@ -2,9 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
+	  <OutputPath>%24%28SolutionDir%29\bin\Debug\</OutputPath>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <PostBuildEvent>rmdir /s /q obj</PostBuildEvent>
   </PropertyGroup>
 
   <ItemGroup>
