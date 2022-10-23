@@ -30,8 +30,6 @@ Generated\ Files/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
-*.AssemblyInfo.cs
-.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
 
 # NUnit
 *.VisualState.xml
