@@ -4,12 +4,10 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	  <PostBuildEvent>rmdir /s /q obj</PostBuildEvent>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
   </ItemGroup>
-  <PropertyGroup>
-    <PostBuildEvent>rmdir /s /q obj</PostBuildEvent>
-  </PropertyGroup>
 </Project>
