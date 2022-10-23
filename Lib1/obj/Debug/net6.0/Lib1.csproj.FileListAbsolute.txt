@@ -34,3 +34,6 @@ C:\Users\Zero\Desktop\444\SpaceShip-master\Lib1\obj\Debug\net6.0\Lib1.dll
 C:\Users\Zero\Desktop\444\SpaceShip-master\Lib1\obj\Debug\net6.0\refint\Lib1.dll
 C:\Users\Zero\Desktop\444\SpaceShip-master\Lib1\obj\Debug\net6.0\Lib1.pdb
 C:\Users\Zero\Desktop\444\SpaceShip-master\Lib1\obj\Debug\net6.0\ref\Lib1.dll
+C:\Users\Zero\Desktop\444\SpaceShip-master\Lib1\$(SolutionDir)\bin\Debug\net6.0\Lib1.deps.json
+C:\Users\Zero\Desktop\444\SpaceShip-master\Lib1\$(SolutionDir)\bin\Debug\net6.0\Lib1.dll
+C:\Users\Zero\Desktop\444\SpaceShip-master\Lib1\$(SolutionDir)\bin\Debug\net6.0\Lib1.pdb
